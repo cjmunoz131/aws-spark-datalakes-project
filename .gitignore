@@ -1,0 +1,6 @@
+comandos.txt
+/IaC/variables.tfvars
+/IaC/.terraform*
+/IaC/terraform.tfstate.d*
+/IaC/result.out
+/IaC/result_destroy.out
